@@ -1,0 +1,16 @@
+h1 {
+    color:darkblue;
+    background-color:aquamarine;
+}
+
+h2 {
+    color:aquamarine;
+    background-color:darkblue;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+    color:darkblue;
+    background-color:aquamarine;
+}
